@@ -7,5 +7,7 @@ Read more about me at [my website](https://desiderantes.com)
 
 
 <a href="https://github.com/desiderantes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desiderantes&&theme=chartreuse-dark&show_icons=true&langs_count=15" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=desiderantes&show_icons=true&theme=transparent" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desiderantes&theme=transparent&layout=donut-vertical&show_icons=true&langs_count=12" />
 </a>
